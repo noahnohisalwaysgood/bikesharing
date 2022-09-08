@@ -10,6 +10,9 @@ Last Summer, I and Kate (friends of mine) took the trip to New York City for two
 * Show the number of bike trips for all riders and genders for each hour of each day of the week
 * Show the number of bike trips for each type of user and gender for each day of the week.
 
+# tableau
+https://public.tableau.com/views/Deliverable2_16625982129010/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 # Results
 ![image](https://user-images.githubusercontent.com/105985796/189022260-7ce36a3f-b12e-464f-a979-17decaece878.png)
 * This is Top Starting Location in NYC. According to the data, the largest bike stations are around the enomomic and tourist zones of the city. 
