@@ -34,3 +34,9 @@ https://public.tableau.com/views/Deliverable2_16625982129010/Story1?:language=en
 * This Data shows that subscribers use more bike sharing service more than customers.
 
 # Summary
+![image](https://user-images.githubusercontent.com/105985796/189424682-9b6f04dc-b50f-408a-a2c7-781f72fba557.png)
+* This data shows that users who likely use bike sharing service were born between 1975 and 1990. It applies to for both male and famle users.
+As a result, they should begin advertising to early 20s potential users with promotion (such as college student discount)
+
+![image](https://user-images.githubusercontent.com/105985796/189425105-cd5a232b-ae06-4244-a257-21c1988d4f9c.png)
+* This data shows that people who use bike sharing service are men. The company should start advertising to potential women consumers and provide variety of events. 
